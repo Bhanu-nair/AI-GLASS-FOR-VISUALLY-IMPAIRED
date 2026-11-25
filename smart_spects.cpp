@@ -14,8 +14,8 @@
 
 // WiFi credentials
 // Wifi network station credentials
-#define WIFI_SSID "admin"
-#define WIFI_PASSWORD "admin1234"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Wifi network station credentials
 
