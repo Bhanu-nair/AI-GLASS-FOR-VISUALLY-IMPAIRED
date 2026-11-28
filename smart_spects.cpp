@@ -29,9 +29,9 @@ bool sendPhoto = false;  // Flag to indicate photo sending request
 
 // // For Device 1
 // // OpenAI API key
-// const String apiKey = "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";
+// const String apiKey = ""
 // // Telegram BOT Token (Get from Botfather)
-// #define BOT_TOKEN "8264688459:AAGx3qVy6ukhEL5hEdnOO23xjisxnjix4d0"  // for VisionarySpecs1Bot
+// #define BOT_TOKEN " // for VisionarySpecs1Bot
 
 // For Device 2
 const String apiKey = "";
